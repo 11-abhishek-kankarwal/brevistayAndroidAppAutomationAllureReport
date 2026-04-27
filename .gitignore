@@ -46,8 +46,7 @@ Thumbs.db
 
 # Screenshots / Reports (optional)
 screenshots/
-allure-results/
-allure-report/
+
 test-output/
 reports/
 
